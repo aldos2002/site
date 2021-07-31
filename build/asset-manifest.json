@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/demos/free-admin-templates/wrapkit-react-lite/static/css/main.58b6bae0.chunk.css",
+    "main.js": "/demos/free-admin-templates/wrapkit-react-lite/static/js/main.9196ec27.chunk.js",
+    "main.js.map": "/demos/free-admin-templates/wrapkit-react-lite/static/js/main.9196ec27.chunk.js.map",
+    "runtime-main.js": "/demos/free-admin-templates/wrapkit-react-lite/static/js/runtime-main.1c93a5ba.js",
+    "runtime-main.js.map": "/demos/free-admin-templates/wrapkit-react-lite/static/js/runtime-main.1c93a5ba.js.map",
+    "static/js/2.a400f97d.chunk.js": "/demos/free-admin-templates/wrapkit-react-lite/static/js/2.a400f97d.chunk.js",
+    "static/js/2.a400f97d.chunk.js.map": "/demos/free-admin-templates/wrapkit-react-lite/static/js/2.a400f97d.chunk.js.map",
+    "index.html": "/demos/free-admin-templates/wrapkit-react-lite/index.html",
+    "precache-manifest.9f376fe648fd9fe95bee9adf96632333.js": "/demos/free-admin-templates/wrapkit-react-lite/precache-manifest.9f376fe648fd9fe95bee9adf96632333.js",
+    "service-worker.js": "/demos/free-admin-templates/wrapkit-react-lite/service-worker.js",
+    "static/css/main.58b6bae0.chunk.css.map": "/demos/free-admin-templates/wrapkit-react-lite/static/css/main.58b6bae0.chunk.css.map",
+    "static/js/2.a400f97d.chunk.js.LICENSE.txt": "/demos/free-admin-templates/wrapkit-react-lite/static/js/2.a400f97d.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/1.8cccc71b.jpg",
+    "static/media/2.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/2.7eef6399.jpg",
+    "static/media/3.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/3.103c0884.jpg",
+    "static/media/5.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/5.764ff046.jpg",
+    "static/media/style.scss": "/demos/free-admin-templates/wrapkit-react-lite/static/media/warning.7a3f95ce.svg",
+    "static/media/banner-img.png": "/demos/free-admin-templates/wrapkit-react-lite/static/media/banner-img.e19dcad6.png",
+    "static/media/img1.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/img1.ed5bf132.jpg",
+    "static/media/img2.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/img2.f3f452a8.jpg",
+    "static/media/img3.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/img3.af030fff.jpg",
+    "static/media/img4.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/img4.e77a5906.jpg",
+    "static/media/img5.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/img5.73a034c4.jpg",
+    "static/media/img6.jpg": "/demos/free-admin-templates/wrapkit-react-lite/static/media/img6.36daae64.jpg",
+    "static/media/white-text.png": "/demos/free-admin-templates/wrapkit-react-lite/static/media/white-text.6d9bedd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c93a5ba.js",
+    "static/js/2.a400f97d.chunk.js",
+    "static/css/main.58b6bae0.chunk.css",
+    "static/js/main.9196ec27.chunk.js"
+  ]
+}
